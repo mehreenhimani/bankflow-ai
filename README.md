@@ -2,7 +2,7 @@
 
 An agentic banking platform that demonstrates production-grade AI product architecture for European SME neobanks. BankFlow AI uses Claude's tool-use capability to create a genuinely autonomous banking agent with guardrails, synthetic data, and LLM-as-judge evaluation.
 
-**Live Demo:** [bankflow-ai.vercel.app](https://bankflow-ai.vercel.app)
+**Live Demo:** [bankflow-ai.vercel.app](https://bankflow-ai-app-deve-ox70.bolt.host/)
 
 ## What Makes This Different
 
